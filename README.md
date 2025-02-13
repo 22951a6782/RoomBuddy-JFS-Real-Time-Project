@@ -106,7 +106,7 @@ To set up and run the **RoomBuddy** project locally:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/NirmalsaiswaroopJ/RoomBuddy-JFS-Real-Time-Project.git
+git clone https://github.com/22951a6782/RoomBuddy-JFS-Real-Time-Project.git
 cd RoomBuddy-JFS-Real-Time-Project
 ```
 
